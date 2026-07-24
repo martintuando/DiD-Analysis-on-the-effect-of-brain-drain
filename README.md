@@ -43,9 +43,9 @@ The treatment period begins after the 2004 EU enlargement.
 
 The project estimates a Difference-in-Differences model:
 
-[
+$$
 Y_{ict} = \beta DID_{ct} + \gamma X_{ict} + \alpha_c + \lambda_t + \epsilon_{ict}
-]
+$$
 
 where:
 
@@ -53,6 +53,7 @@ where:
 * (X_{ict}) includes student and household controls
 * Country and year fixed effects are included
 * Standard errors are clustered at the country level
+* \(X_{ict}\) includes student-level controls such as gender, socioeconomic status (ESCS), wealth indicators, and household characteristics.
 
 ---
 
