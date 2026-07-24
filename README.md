@@ -50,10 +50,9 @@ $$
 where:
 
 * (DID) captures the interaction between treatment countries and the post-enlargement period
-* (X_{ict}) includes student and household controls
+* (X_{ict}) includes student-level controls such as gender, socioeconomic status (ESCS), wealth indicators, and household characteristic
 * Country and year fixed effects are included
 * Standard errors are clustered at the country level
-* \(X_{ict}\) includes student-level controls such as gender, socioeconomic status (ESCS), wealth indicators, and household characteristics.
 
 ---
 
