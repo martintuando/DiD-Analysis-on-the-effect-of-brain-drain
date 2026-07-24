@@ -1,3 +1,11 @@
+Data/student_data_2000_3_6_9.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
