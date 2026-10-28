@@ -31,11 +31,11 @@ The 2000 and 2003 waves provide pre-enlargement observations, while the 2006 and
 
 The effect is estimated using a Difference-in-Differences model with country and year fixed effects:
 
-\[
+$$
 Y_{ict} = \beta DID_{ct} + \gamma X_{ict} + \alpha_c + \lambda_t + \epsilon_{ict}
-\]
+$$
 
-Here, \(Y_{ict}\) represents the educational performance of student \(i\) in country \(c\) and year \(t\). The coefficient \(\beta\) captures the estimated difference in post-enlargement outcomes between the treatment and control groups.
+Here, $$Y_{ict}$$ represents the educational performance of student $$i$$ in country $$c$$ and year $$t$$. The coefficient $$\beta\$$ captures the estimated difference in post-enlargement outcomes between the treatment and control groups.
 
 The model includes student-level controls for gender, socioeconomic background (ESCS), household wealth and other household characteristics. Country and year fixed effects account for persistent differences between countries and common changes over time. Standard errors are clustered at the country level.
 
